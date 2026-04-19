@@ -8,7 +8,7 @@ export default function CtaYellow() {
           Revoluciona tu Producción Agrícola Hoy
         </h2>
         <p className="text-slate-800 text-lg md:text-xl mb-10 max-w-2xl mx-auto font-medium">
-          KOTIA CENVIX transforma tu campo con IA predictiva. Reduce consumo de agua hasta un 20%, disminuye costos operativos y aumenta rendimiento hasta 20%. Solicita una consulta sin costo para implementar monitoreo inteligente en tu cultivo.
+          KOTIA transforma tu campo con IA predictiva. Reduce consumo de agua hasta un 20%, disminuye costos operativos y aumenta rendimiento hasta 20%. Solicita una consulta sin costo para implementar monitoreo inteligente en tu cultivo.
         </p>
         
         <a 

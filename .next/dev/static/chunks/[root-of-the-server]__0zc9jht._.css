@@ -165,7 +165,6 @@
   :root, :host {
     --color-red-400: #ff6568;
     --color-green-500: #00c758;
-    --color-emerald-300: #5ee9b5;
     --color-emerald-400: #00d294;
     --color-emerald-500: #00bb7f;
     --color-cyan-500: #00b7d7;
@@ -238,7 +237,6 @@
     :root, :host {
       --color-red-400: lab(63.7053% 60.745 31.3109);
       --color-green-500: lab(70.5521% -66.5147 45.8073);
-      --color-emerald-300: lab(83.9203% -48.7124 13.8849);
       --color-emerald-400: lab(75.0771% -60.7313 19.4147);
       --color-emerald-500: lab(66.9756% -58.27 19.5419);
       --color-cyan-500: lab(67.805% -35.3952 -30.2018);
@@ -600,10 +598,6 @@
     margin-inline: auto;
   }
 
-  .mt-auto {
-    margin-top: auto;
-  }
-
   .mb-2 {
     margin-bottom: calc(var(--spacing) * 2);
   }
@@ -658,10 +652,6 @@
 
   .inline-block {
     display: inline-block;
-  }
-
-  .inline-flex {
-    display: inline-flex;
   }
 
   .aspect-4\/3 {
@@ -1604,13 +1594,6 @@
   }
 
   @media (hover: hover) {
-    .group-hover\:translate-x-1:is(:where(.group):hover *) {
-      --tw-translate-x: calc(var(--spacing) * 1);
-      translate: var(--tw-translate-x) var(--tw-translate-y);
-    }
-  }
-
-  @media (hover: hover) {
     .group-hover\:-translate-y-2:is(:where(.group):hover *) {
       --tw-translate-y: calc(var(--spacing) * -2);
       translate: var(--tw-translate-x) var(--tw-translate-y);
@@ -1735,12 +1718,6 @@
   @media (hover: hover) {
     .hover\:bg-slate-800:hover {
       background-color: var(--color-slate-800);
-    }
-  }
-
-  @media (hover: hover) {
-    .hover\:text-emerald-300:hover {
-      color: var(--color-emerald-300);
     }
   }
 
