@@ -457,8 +457,8 @@ function HowItWorks() {
         },
         {
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$brain$2d$circuit$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BrainCircuit$3e$__["BrainCircuit"],
-            title: 'Análisis IA',
-            desc: 'Algoritmos procesan y predicen.'
+            title: 'Análisis con IA',
+            desc: 'Algoritmos que procesan y predicen.'
         },
         {
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$user$2d$check$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__UserCheck$3e$__["UserCheck"],

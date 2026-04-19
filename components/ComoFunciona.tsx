@@ -6,7 +6,7 @@ export default function HowItWorks() {
     { icon: Cpu, title: 'Sensores de Campo', desc: 'Recopilamos datos con sensores inteligentes.' },
     { icon: Wifi, title: 'Flujo de Datos', desc: 'Transmisión directa mediante IoT.' },
     { icon: Cloud, title: 'Nube Central', desc: 'Almacenamiento seguro e integración.' },
-    { icon: BrainCircuit, title: 'Análisis IA', desc: 'Algoritmos procesan y predicen.' },
+    { icon: BrainCircuit, title: 'Análisis con IA', desc: 'Algoritmos que procesan y predicen.' },
     { icon: UserCheck, title: 'Usuario Final', desc: 'Recibe alertas y toma decisiones.' },
   ];
 
