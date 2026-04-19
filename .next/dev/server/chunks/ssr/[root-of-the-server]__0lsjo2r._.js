@@ -84,7 +84,7 @@ function Hero() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "absolute inset-0 bg-linear-to-t from-[#0B1120] via-transparent to-[#0B1120]/50"
+                        className: "absolute inset-0 bg-gradient-to-t from-[#0B1120] via-transparent to-[#0B1120]/50"
                     }, void 0, false, {
                         fileName: "[project]/Documents/Proyectos/Kotia/components/Hero.tsx",
                         lineNumber: 9,
@@ -115,7 +115,7 @@ function Hero() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                        className: "text-6xl md:text-8xl font-extrabold text-white mb-6 leading-tight tracking-tight",
+                        className: "text-5xl md:text-6xl lg:text-8xl font-extrabold text-white mb-6 leading-tight tracking-tight",
                         children: [
                             "Centro de ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
@@ -125,7 +125,7 @@ function Hero() {
                             }, this),
                             "Monitoreo Agrícola ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                className: "text-transparent bg-clip-text bg-linear-to-r from-emerald-400 to-cyan-500",
+                                className: "text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-500",
                                 children: "con IA"
                             }, void 0, false, {
                                 fileName: "[project]/Documents/Proyectos/Kotia/components/Hero.tsx",
@@ -139,7 +139,7 @@ function Hero() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-lg md:text-2xl text-slate-400 mb-10 max-w-3xl mx-auto font-light",
+                        className: "text-lg md:text-2xl text-slate-400 mb-10 max-w-3xl mx-auto font-light px-4 md:px-0",
                         children: "Optimiza tus cultivos con datos en tiempo real y análisis inteligente para una productividad sostenible."
                     }, void 0, false, {
                         fileName: "[project]/Documents/Proyectos/Kotia/components/Hero.tsx",
@@ -1300,7 +1300,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Ko
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$components$2f$CtaYellow$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/components/CtaYellow.tsx [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$components$2f$Solutions$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/components/Solutions.tsx [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$components$2f$Ticker$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/components/Ticker.tsx [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$components$2f$ContactForm$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/components/ContactForm.tsx [app-rsc] (ecmascript)"); // <- Importado
+var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$components$2f$ContactForm$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/components/ContactForm.tsx [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$components$2f$Footer$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/components/Footer.tsx [app-rsc] (ecmascript)");
 ;
 ;
@@ -1316,7 +1316,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Ko
 ;
 function Home() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-        className: "min-h-screen bg-[#0B1120] font-sans selection:bg-emerald-500/30 text-slate-200",
+        className: "min-h-screen bg-[#0B1120] font-sans selection:bg-emerald-500/30 text-slate-200 overflow-x-hidden w-full",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$components$2f$Navbar$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/Documents/Proyectos/Kotia/app/page.tsx",

@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kotia - Centro de Monitoreo Agrícola con IA
 
-## Getting Started
+Este es un proyecto de Next.js creado con `create-next-app`, diseñado como una landing page, responsiva y de alto rendimiento para mostrar tecnología agrícola y sistemas de monitoreo inteligente.
 
-First, run the development server:
+## Tecnologías Utilizadas
 
+* **Framework:** [Next.js](https://nextjs.org/) (App Router)
+* **Estilos:** [Tailwind CSS](https://tailwindcss.com/)
+* **Íconos:** [Lucide React](https://lucide.dev/)
+* **Formularios:** [Formspree](https://formspree.io/) (Para el envío de correos sin backend)
+
+---
+
+## Requisitos Previos
+
+Antes de comenzar, asegúrate de tener instalado en tu computadora:
+* [Node.js](https://nodejs.org/es/) (Versión 18.17.0 o superior recomendada)
+* Git
+
+---
+
+## Instalación y Configuración (Para Clonar el Repo)
+
+Si acabas de clonar este repositorio, sigue estos pasos exactos para que el proyecto te funcione a la primera:
+
+**1. Instalar las dependencias:**
+Abre tu terminal en la carpeta del proyecto y ejecuta:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+npm install
