@@ -1,14 +1,14 @@
 import React from 'react';
-import { CloudRain, Droplets, TrendingUp, ShieldCheck, Smartphone, BellRing } from 'lucide-react';
+import { Droplets, Cpu, Signal, BrainCircuit, SlidersHorizontal, BellRing } from 'lucide-react';
 
 export default function Features() {
   const features = [
-    { icon: CloudRain, title: 'Monitoreo de Clima', desc: 'Datos precisos de temperatura, humedad y radiación solar en tiempo real.' },
-    { icon: Droplets, title: 'Optimización de Riego', desc: 'Reducción del consumo de agua con sensores que ajustan el riego automáticamente.' },
-    { icon: TrendingUp, title: 'Análisis Predictivo', desc: 'Algoritmos de IA para predecir plagas y enfermedades antes de que ocurran.' },
-    { icon: ShieldCheck, title: 'Control Remoto', desc: 'Gestión total desde cualquier dispositivo con una interfaz web intuitiva.' },
-    { icon: BellRing, title: 'Alertas en Tiempo Real', desc: 'Notificaciones instantáneas sobre condiciones críticas en el estado de tu campo.' },
-    { icon: Smartphone, title: 'App Móvil Integrada', desc: 'Lleva el control de tus cultivos en el bolsillo a donde quiera que vayas.' },
+    { icon: Droplets, title: 'Monitoreo Preciso del Suelo', desc: 'Análisis continuo de humedad y evaporación. Sensores de alta precisión detectan el nivel exacto de hidratación para una intervención óptima.' },
+    { icon: Cpu, title: 'Riego Autónomo y Eficiente', desc: 'La IA anticipa las necesidades hídricas y administra el riego 24/7. Reduce el consumo de agua hasta un 20% y minimiza costos operativos.' },
+    { icon: Signal, title: 'Sincronización por Proximidad', desc: 'Descarga de datos automática al acercarte a la estación. Diseñado específicamente para zonas rurales sin necesidad de internet continuo.' },
+    { icon: BrainCircuit, title: 'Análisis Predictivo de Cultivos', desc: 'Estudia patrones ambientales para prever estrés hídrico y enfermedades antes de que afecten el rendimiento. Prevención inteligente.' },
+    { icon: SlidersHorizontal, title: 'Control Total a Distancia', desc: 'Gestiona tu sistema desde cualquier lugar. Accede a historiales, recomendaciones de IA y configura parámetros directamente desde tu móvil.' },
+    { icon: BellRing, title: 'Alertas y Acción en Tiempo Real', desc: 'Recibe notificaciones inmediatas ante niveles críticos. El sistema se autoajusta al instante para proteger tu productividad hídrica.' },
   ];
 
   return (

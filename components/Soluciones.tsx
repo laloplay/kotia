@@ -2,11 +2,11 @@ import React from 'react';
 
 export default function Solutions() {
   const solutions = [
-    { id: '01', title: 'Monitoreo en Tiempo Real', desc: 'Recopilamos datos de temperatura, humedad y nutrición con sensores de alta precisión para una visibilidad total del campo.' },
-    { id: '02', title: 'Optimización de Riego', desc: 'Reducción drástica del consumo de agua mediante algoritmos de IA que ajustan el flujo según las necesidades exactas de cada planta.' },
-    { id: '03', title: 'Análisis Predictivo', desc: 'Predicción de plagas y enfermedades antes de que afecten la cosecha, permitiendo una intervención preventiva inteligente.' },
-    { id: '04', title: 'Acceso Remoto', desc: 'Control total desde cualquier dispositivo. Monitorea y gestiona tus cultivos desde el centro de monitoreo CENVIX.' },
-    { id: '05', title: 'Alertas en Tiempo Real', desc: 'Notificaciones instantáneas sobre condiciones críticas, garantizando la seguridad y la productividad de su producción.' }
+    { id: '01', title: 'Monitoreo Integral en Tiempo Real', desc: 'Sensores de alta fidelidad capturan humedad, temperatura, evaporación y radiación. Obtén una radiografía exacta y fundamentada del estado de tus cultivos.' },
+    { id: '02', title: 'Riego Inteligente y Autónomo', desc: 'Algoritmos avanzados administran el riego 24/7 basándose en las necesidades biológicas de la planta, ahorrando hasta un 20% de agua sin intervención humana.' },
+    { id: '03', title: 'Prevención Avanzada de Riesgos', desc: 'Identifica amenazas de plagas, enfermedades y estrés hídrico de forma temprana. Intervenciones preventivas que aseguran la máxima productividad de tu cosecha.' },
+    { id: '04', title: 'Gestión Remota y Sincronización Local', desc: 'Supervisa todo desde tu dispositivo. Nuestro sistema de proximidad permite descargar datos al acercarte a la estación Kotia, ideal para zonas de baja cobertura.' },
+    { id: '05', title: 'Respuesta Inmediata a Anomalías', desc: 'El sistema no solo te notifica al instante ante niveles críticos, sino que toma acción automática activando el riego para salvaguardar tu producción.' }
   ];
 
   return (
@@ -23,12 +23,10 @@ export default function Solutions() {
                 {sol.id}
               </div>
               <h3 className="text-2xl font-bold text-white mb-4">{sol.title}</h3>
-              <p className="text-slate-400 text-sm leading-relaxed mb-8 grow">
+              <p className="text-slate-400 text-sm leading-relaxed grow">
                 {sol.desc}
               </p>
-              <a href="#" className="text-emerald-400 text-sm font-semibold hover:text-emerald-300 transition-colors inline-flex items-center gap-2 mt-auto">
-                Ver Detalles <span className="group-hover:translate-x-1 transition-transform">→</span>
-              </a>
+              {/* Se eliminó el enlace de "Ver Detalles" para mantener la tarjeta limpia */}
             </div>
           ))}
         </div>

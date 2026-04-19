@@ -20,7 +20,7 @@ export default function Hero() {
         </h1>
         
         <p className="text-lg md:text-2xl text-slate-400 mb-10 max-w-3xl mx-auto font-light px-4 md:px-0">
-          Optimiza tus cultivos con datos en tiempo real y análisis inteligente para una productividad sostenible.
+          Automatiza decisiones de riego con inteligencia artificial. Reduce consumo de agua hasta un 20%, disminuye costos y aumenta rendimiento con tecnología predictiva.
         </p>
         
         <div className="flex flex-col sm:flex-row gap-5 justify-center">

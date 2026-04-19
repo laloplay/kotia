@@ -13,10 +13,13 @@ export default function SmartStation() {
         <div className="w-full lg:w-1/2">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6 leading-tight">
             La Estación <br />
-            <span className="text-emerald-400">Inteligente CENVIX</span>
+            <span className="text-emerald-400">Inteligente Kotia</span>
           </h2>
           <p className="text-slate-400 text-lg leading-relaxed mb-8">
-            Kotia es una estación inteligente que recopila datos del campo mediante sensores de alta precisión y los analiza con inteligencia artificial avanzada. Transformamos la toma de decisiones tradicional en una herramienta de optimización predictiva, garantizando una productividad agrícola sostenible y eficiente.
+            Kotia es una estación inteligente que monitorea humedad del suelo y evaporación con sensores de precisión. 
+            Utiliza inteligencia artificial predictiva para activar riego automático 24/7 sin intervención manual. 
+            Los datos se sincronizan por proximidad a tu dispositivo móvil, transformando decisiones tradicionales en 
+            optimización predictiva para productividad sostenible.
           </p>
           <button className="text-emerald-400 border border-emerald-500/50 hover:bg-emerald-500/10 font-semibold px-6 py-3 rounded-full transition-all backdrop-blur-sm">
             Conoce la tecnología

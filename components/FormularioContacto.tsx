@@ -54,7 +54,7 @@ export default function ContactForm() {
             Solicita <span className="text-emerald-400">Información</span>
           </h2>
           <p className="text-slate-400 text-lg">
-            Déjanos tus datos y un experto se pondrá en contacto contigo para evaluar las necesidades de tu campo.
+            Déjanos tus datos y nuestro equipo de expertos evaluará cómo Kotia puede optimizar tu producción. Consulta sin costo.
           </p>
         </div>
 

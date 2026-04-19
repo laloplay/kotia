@@ -7,7 +7,7 @@ module.exports = mod;
 }),
 "[project]/Documents/Proyectos/Kotia/app/favicon.ico (static in ecmascript, tag client)", ((__turbopack_context__) => {
 
-__turbopack_context__.v("/_next/static/media/favicon.0x3dzn~oxb6tn.ico" + (globalThis["NEXT_CLIENT_ASSET_SUFFIX"] || ''));}),
+__turbopack_context__.v("/_next/static/media/favicon.0pnz1631wyz2n.ico" + (globalThis["NEXT_CLIENT_ASSET_SUFFIX"] || ''));}),
 "[project]/Documents/Proyectos/Kotia/app/favicon.ico.mjs { IMAGE => \"[project]/Documents/Proyectos/Kotia/app/favicon.ico (static in ecmascript, tag client)\" } [app-rsc] (structured image object, ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -19,7 +19,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Ko
 ;
 const __TURBOPACK__default__export__ = {
     src: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$app$2f$favicon$2e$ico__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
-    width: 256,
+    width: 235,
     height: 256
 };
 }),
@@ -140,7 +140,7 @@ function Hero() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: "text-lg md:text-2xl text-slate-400 mb-10 max-w-3xl mx-auto font-light px-4 md:px-0",
-                        children: "Optimiza tus cultivos con datos en tiempo real y análisis inteligente para una productividad sostenible."
+                        children: "Automatiza decisiones de riego con inteligencia artificial. Reduce consumo de agua hasta un 20%, disminuye costos y aumenta rendimiento con tecnología predictiva."
                     }, void 0, false, {
                         fileName: "[project]/Documents/Proyectos/Kotia/components/PortadaPrincipal.tsx",
                         lineNumber: 22,
@@ -236,7 +236,7 @@ function SmartStation() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     className: "text-emerald-400",
-                                    children: "Inteligente CENVIX"
+                                    children: "Inteligente Kotia"
                                 }, void 0, false, {
                                     fileName: "[project]/Documents/Proyectos/Kotia/components/EstacionInteligente.tsx",
                                     lineNumber: 16,
@@ -250,7 +250,7 @@ function SmartStation() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "text-slate-400 text-lg leading-relaxed mb-8",
-                            children: "Kotia es una estación inteligente que recopila datos del campo mediante sensores de alta precisión y los analiza con inteligencia artificial avanzada. Transformamos la toma de decisiones tradicional en una herramienta de optimización predictiva, garantizando una productividad agrícola sostenible y eficiente."
+                            children: "Kotia es una estación inteligente que monitorea humedad del suelo y evaporación con sensores de precisión. Utiliza inteligencia artificial predictiva para activar riego automático 24/7 sin intervención manual. Los datos se sincronizan por proximidad a tu dispositivo móvil, transformando decisiones tradicionales en optimización predictiva para productividad sostenible."
                         }, void 0, false, {
                             fileName: "[project]/Documents/Proyectos/Kotia/components/EstacionInteligente.tsx",
                             lineNumber: 18,
@@ -261,7 +261,7 @@ function SmartStation() {
                             children: "Conoce la tecnología"
                         }, void 0, false, {
                             fileName: "[project]/Documents/Proyectos/Kotia/components/EstacionInteligente.tsx",
-                            lineNumber: 21,
+                            lineNumber: 24,
                             columnNumber: 11
                         }, this)
                     ]
@@ -291,45 +291,45 @@ __turbopack_context__.s([
     ()=>Features
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$rain$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudRain$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/cloud-rain.js [app-rsc] (ecmascript) <export default as CloudRain>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/droplets.js [app-rsc] (ecmascript) <export default as Droplets>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trending$2d$up$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__TrendingUp$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/trending-up.js [app-rsc] (ecmascript) <export default as TrendingUp>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shield$2d$check$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ShieldCheck$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/shield-check.js [app-rsc] (ecmascript) <export default as ShieldCheck>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$smartphone$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Smartphone$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/smartphone.js [app-rsc] (ecmascript) <export default as Smartphone>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cpu$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Cpu$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/cpu.js [app-rsc] (ecmascript) <export default as Cpu>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$signal$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Signal$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/signal.js [app-rsc] (ecmascript) <export default as Signal>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$brain$2d$circuit$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BrainCircuit$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/brain-circuit.js [app-rsc] (ecmascript) <export default as BrainCircuit>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sliders$2d$horizontal$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__SlidersHorizontal$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/sliders-horizontal.js [app-rsc] (ecmascript) <export default as SlidersHorizontal>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$bell$2d$ring$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BellRing$3e$__ = __turbopack_context__.i("[project]/Documents/Proyectos/Kotia/node_modules/lucide-react/dist/esm/icons/bell-ring.js [app-rsc] (ecmascript) <export default as BellRing>");
 ;
 ;
 function Features() {
     const features = [
         {
-            icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cloud$2d$rain$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CloudRain$3e$__["CloudRain"],
-            title: 'Monitoreo de Clima',
-            desc: 'Datos precisos de temperatura, humedad y radiación solar en tiempo real.'
-        },
-        {
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$droplets$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Droplets$3e$__["Droplets"],
-            title: 'Optimización de Riego',
-            desc: 'Reducción del consumo de agua con sensores que ajustan el riego automáticamente.'
+            title: 'Monitoreo Preciso del Suelo',
+            desc: 'Análisis continuo de humedad y evaporación. Sensores de alta precisión detectan el nivel exacto de hidratación para una intervención óptima.'
         },
         {
-            icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trending$2d$up$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__TrendingUp$3e$__["TrendingUp"],
-            title: 'Análisis Predictivo',
-            desc: 'Algoritmos de IA para predecir plagas y enfermedades antes de que ocurran.'
+            icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$cpu$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Cpu$3e$__["Cpu"],
+            title: 'Riego Autónomo y Eficiente',
+            desc: 'La IA anticipa las necesidades hídricas y administra el riego 24/7. Reduce el consumo de agua hasta un 20% y minimiza costos operativos.'
         },
         {
-            icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$shield$2d$check$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ShieldCheck$3e$__["ShieldCheck"],
-            title: 'Control Remoto',
-            desc: 'Gestión total desde cualquier dispositivo con una interfaz web intuitiva.'
+            icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$signal$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Signal$3e$__["Signal"],
+            title: 'Sincronización por Proximidad',
+            desc: 'Descarga de datos automática al acercarte a la estación. Diseñado específicamente para zonas rurales sin necesidad de internet continuo.'
+        },
+        {
+            icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$brain$2d$circuit$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BrainCircuit$3e$__["BrainCircuit"],
+            title: 'Análisis Predictivo de Cultivos',
+            desc: 'Estudia patrones ambientales para prever estrés hídrico y enfermedades antes de que afecten el rendimiento. Prevención inteligente.'
+        },
+        {
+            icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$sliders$2d$horizontal$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__SlidersHorizontal$3e$__["SlidersHorizontal"],
+            title: 'Control Total a Distancia',
+            desc: 'Gestiona tu sistema desde cualquier lugar. Accede a historiales, recomendaciones de IA y configura parámetros directamente desde tu móvil.'
         },
         {
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$bell$2d$ring$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BellRing$3e$__["BellRing"],
-            title: 'Alertas en Tiempo Real',
-            desc: 'Notificaciones instantáneas sobre condiciones críticas en el estado de tu campo.'
-        },
-        {
-            icon: __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$smartphone$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Smartphone$3e$__["Smartphone"],
-            title: 'App Móvil Integrada',
-            desc: 'Lleva el control de tus cultivos en el bolsillo a donde quiera que vayas.'
+            title: 'Alertas y Acción en Tiempo Real',
+            desc: 'Recibe notificaciones inmediatas ante niveles críticos. El sistema se autoajusta al instante para proteger tu productividad hídrica.'
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -696,7 +696,7 @@ function CtaYellow() {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                     className: "text-4xl md:text-5xl font-black text-slate-900 mb-6 tracking-tight",
-                    children: "Mejora tu producción agrícola hoy"
+                    children: "Revoluciona tu Producción Agrícola Hoy"
                 }, void 0, false, {
                     fileName: "[project]/Documents/Proyectos/Kotia/components/LlamadoAccion.tsx",
                     lineNumber: 7,
@@ -704,7 +704,7 @@ function CtaYellow() {
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     className: "text-slate-800 text-lg md:text-xl mb-10 max-w-2xl mx-auto font-medium",
-                    children: "Transforma tu campo con tecnología de vanguardia. Solicita información para implementar sistemas de monitoreo inteligente y optimiza tus cultivos con IA."
+                    children: "KOTIA CENVIX transforma tu campo con IA predictiva. Reduce consumo de agua hasta un 20%, disminuye costos operativos y aumenta rendimiento hasta 20%. Solicita una consulta sin costo para implementar monitoreo inteligente en tu cultivo."
                 }, void 0, false, {
                     fileName: "[project]/Documents/Proyectos/Kotia/components/LlamadoAccion.tsx",
                     lineNumber: 10,
@@ -713,7 +713,7 @@ function CtaYellow() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                     href: "#contacto",
                     className: "inline-block bg-slate-900 hover:bg-slate-800 text-white font-bold px-10 py-4 rounded-full transition-transform hover:scale-105 shadow-xl text-lg",
-                    children: "SOLICITAR INFORMACIÓN"
+                    children: "SOLICITAR DEMOSTRACIÓN GRATIS"
                 }, void 0, false, {
                     fileName: "[project]/Documents/Proyectos/Kotia/components/LlamadoAccion.tsx",
                     lineNumber: 14,
@@ -745,28 +745,28 @@ function Solutions() {
     const solutions = [
         {
             id: '01',
-            title: 'Monitoreo en Tiempo Real',
-            desc: 'Recopilamos datos de temperatura, humedad y nutrición con sensores de alta precisión para una visibilidad total del campo.'
+            title: 'Monitoreo Integral en Tiempo Real',
+            desc: 'Sensores de alta fidelidad capturan humedad, temperatura, evaporación y radiación. Obtén una radiografía exacta y fundamentada del estado de tus cultivos.'
         },
         {
             id: '02',
-            title: 'Optimización de Riego',
-            desc: 'Reducción drástica del consumo de agua mediante algoritmos de IA que ajustan el flujo según las necesidades exactas de cada planta.'
+            title: 'Riego Inteligente y Autónomo',
+            desc: 'Algoritmos avanzados administran el riego 24/7 basándose en las necesidades biológicas de la planta, ahorrando hasta un 20% de agua sin intervención humana.'
         },
         {
             id: '03',
-            title: 'Análisis Predictivo',
-            desc: 'Predicción de plagas y enfermedades antes de que afecten la cosecha, permitiendo una intervención preventiva inteligente.'
+            title: 'Prevención Avanzada de Riesgos',
+            desc: 'Identifica amenazas de plagas, enfermedades y estrés hídrico de forma temprana. Intervenciones preventivas que aseguran la máxima productividad de tu cosecha.'
         },
         {
             id: '04',
-            title: 'Acceso Remoto',
-            desc: 'Control total desde cualquier dispositivo. Monitorea y gestiona tus cultivos desde el centro de monitoreo CENVIX.'
+            title: 'Gestión Remota y Sincronización Local',
+            desc: 'Supervisa todo desde tu dispositivo. Nuestro sistema de proximidad permite descargar datos al acercarte a la estación Kotia, ideal para zonas de baja cobertura.'
         },
         {
             id: '05',
-            title: 'Alertas en Tiempo Real',
-            desc: 'Notificaciones instantáneas sobre condiciones críticas, garantizando la seguridad y la productividad de su producción.'
+            title: 'Respuesta Inmediata a Anomalías',
+            desc: 'El sistema no solo te notifica al instante ante niveles críticos, sino que toma acción automática activando el riego para salvaguardar tu producción.'
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -805,30 +805,11 @@ function Solutions() {
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "text-slate-400 text-sm leading-relaxed mb-8 grow",
+                                    className: "text-slate-400 text-sm leading-relaxed grow",
                                     children: sol.desc
                                 }, void 0, false, {
                                     fileName: "[project]/Documents/Proyectos/Kotia/components/Soluciones.tsx",
                                     lineNumber: 26,
-                                    columnNumber: 15
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                    href: "#",
-                                    className: "text-emerald-400 text-sm font-semibold hover:text-emerald-300 transition-colors inline-flex items-center gap-2 mt-auto",
-                                    children: [
-                                        "Ver Detalles ",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                            className: "group-hover:translate-x-1 transition-transform",
-                                            children: "→"
-                                        }, void 0, false, {
-                                            fileName: "[project]/Documents/Proyectos/Kotia/components/Soluciones.tsx",
-                                            lineNumber: 30,
-                                            columnNumber: 30
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/Documents/Proyectos/Kotia/components/Soluciones.tsx",
-                                    lineNumber: 29,
                                     columnNumber: 15
                                 }, this)
                             ]
@@ -1066,7 +1047,7 @@ function Footer() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Proyectos$2f$Kotia$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: "text-slate-500 text-sm",
-                                children: "Transformando la agricultura mediante la inteligencia artificial y el monitoreo de campo."
+                                children: "Revoluciona la agricultura mediante inteligencia artificial y monitoreo de precisión."
                             }, void 0, false, {
                                 fileName: "[project]/Documents/Proyectos/Kotia/components/PieDePagina.tsx",
                                 lineNumber: 20,

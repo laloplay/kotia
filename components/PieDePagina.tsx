@@ -18,7 +18,7 @@ export default function Footer() {
           
           </div>
           <p className="text-slate-500 text-sm">
-            Transformando la agricultura mediante la inteligencia artificial y el monitoreo de campo.
+            Revoluciona la agricultura mediante inteligencia artificial y monitoreo de precisión.
           </p>
         </div>
         
